@@ -72,3 +72,6 @@ nav{
     position: relative;
     top: 16px; 
 }
+.text span{
+    color: rgb(19, 34, 48);
+}
